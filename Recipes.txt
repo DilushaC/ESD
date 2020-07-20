@@ -4,6 +4,9 @@ Rice
 Dhall
 Chicken
 
+beans 
+pizza
+
 https://courseweb.sliit.lk/
 
 Thank You :)
